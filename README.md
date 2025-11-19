@@ -8,7 +8,7 @@ Der WAGO CC100 Sensorboard Workshop demonstriert die Anbindung eines [HC-SR04 Ul
 ## Verzeichnisstruktur
 ```
 doc/                     Aufgabenstellung und Dokumentation
-res/                     Ressourcen für WAGO CC100 (Firmware, Packages, Handbuch)
+pcb/                     Dokumentation der Zusatzplatine für den Ultraschallsensor
 src/                     CODESYS V3.5 Projekt mit Lösung
 ```
 
