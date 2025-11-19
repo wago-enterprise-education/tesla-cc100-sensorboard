@@ -1,0 +1,13 @@
+*.tmp
+
+# PowerPoint temporary
+~$*.ppt*
+~$*.doc*
+
+# CODESYS
+*.opt
+*.precompilecache
+*.~*
+*.bak
+*.precompileinfo
+*.simulation.compileinfo
