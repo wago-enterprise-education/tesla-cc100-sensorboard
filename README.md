@@ -3,7 +3,7 @@
 Dieses Repository enthält Unterlagen (Dokumentation, Folien, Code und Laboraufgaben) für den WAGO CC100 Sensorboard Workshop im Rahmen des Besuchs der Tesla Auszubildenden bei WAGO.
 
 ## Überblick
-Der WAGO CC100 Sensorboard Workshop demonstriert die Anbindung eines [HC-SR04 Ultraschallsensors](https://www.reichelt.de/de/de/shop/produkt/entwicklerboards_-_ultraschall_abstandssensor_hc-sr04-161487) an die WAGO CC100 Steuerung und die und Auswertung auf einem WAGO Anzeigemodul Das 3,3 Volt Signal des Ultraschallsensors wird durch eine [Zusatzplatine](./pcb/) per Modbus über die RS-485 Schnittstelle des WAGO CC100 eingelesen. 
+Der WAGO CC100 Sensorboard Workshop demonstriert die Anbindung eines [HC-SR04 Ultraschallsensors](https://www.reichelt.de/de/de/shop/produkt/entwicklerboards_-_ultraschall_abstandssensor_hc-sr04-161487) an die [WAGO CC100 Steuerung (751-9301)](https://www.wago.com/de/sps/compact-controller-100/p/751-9301#details) und die und Auswertung auf einem WAGO Anzeigemodul Das 3,3 Volt Signal des Ultraschallsensors wird durch eine [Zusatzplatine](./pcb/) per Modbus über die RS-485 Schnittstelle des WAGO CC100 eingelesen. 
 
 ## Verzeichnisstruktur
 ```
